@@ -1,0 +1,36 @@
+---
+title: Dr. Januar Harianto
+toc: false
+about:
+  template: trestles
+  image: https://unsplash.com/photos/NE0XGVKTmcA/download?ixid=M3wxMjA3fDB8MXxhbGx8fHx8fHx8fHwxNzA5OTQwNTI1fA&force=true&w=640
+  links:
+    - icon: twitter-x
+      text: x-twitter
+      href: about.qmd
+    - icon: google
+      text: google scholar
+      href: https://scholar.google.com.au/citations?user=xDFM7y0AAAAJ&hl=en
+    - icon: buildings
+      text: usyd
+      href: about.qmd
+---
+
+
+### About me 
+
+Shred all toilet paper and spread around the house. My left donut is missing, as is my right ears back wide eyed. Lick butt why dog in house? I'm the sole ruler of this home and its inhabitants.
+
+### History
+
+I was born in a cardboard box. 
+
+### Research interests
+
+I am interested in the following areas:
+
+- Run in circles shed everywhere.
+- Stretching... attack your ankles! 
+- Chase the red dot.
+
+For more information see my [research page](research.qmd).
