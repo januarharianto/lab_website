@@ -3,7 +3,7 @@ toc: false
 ---
 
 ::: {.column-screen}
-![](https://unsplash.com/photos/wvBxL3y3Yfg/download?ixid=M3wxMjA3fDB8MXxhbGx8fHx8fHx8fHwxNzA5OTYyMjg1fA&force=true&w=2400)
+![](assets/beach.jpg)
 :::
 
 Welcome to the lab of **Dr. Januar Harianto**, Lecturer in Agricultural Data Science and Biostatistics at The University of Sydney. Loves cheeseburgers love. Purrr purr littel cat, little cat purr purr need to check on human, have not seen in an hour might be dead oh look, human is alive, hiss at human, feed me human is behind a closed door, emergency! Abandoned!
